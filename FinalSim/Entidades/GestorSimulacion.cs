@@ -55,6 +55,9 @@ namespace FinalSim.Entidades
             MediaLlegUrgencia = mediaLlegUrgencia;
             LimsfinConsulta = limsfinConsulta;
             LimsfinUrgencia = limsfinUrgencia;
+            MaxEsperaUrgencia = 0; 
+            MaxEsperaConsulta = 0; 
+
 
 
             Medico = new Medico(EstadoM.Libre, 0);
@@ -94,11 +97,10 @@ namespace FinalSim.Entidades
         }
 
 
-        private static void EsperaFinalizadaSegunTipoPaciente(string[] linea, Paciente paciente, double reloj)
+        private void EsperaFinalizadaSegunTipoPaciente(string[] linea, Paciente paciente, double reloj)
         {
             double esperaFin;
-            double nuevaMaxEspUrg;
-            double nuevaMaxEspCons;
+
 
             if (paciente.Tipo == Tipo.Consulta)
             {
@@ -115,7 +117,6 @@ namespace FinalSim.Entidades
             {
                 esperaFin = reloj - paciente.TiempoLlegada;
                 linea[20] = GeneradorNros.Truncar(esperaFin).ToString(); //controlar SUBÍNDICES !!!
-                nuevaMaxEspUrg = Math.Max(esperaFin, MaxEsperaUrgencia);
                 linea[22] = GeneradorNros.Truncar(MaxEsperaUrgencia).ToString(); //controlar SUBÍNDICES !!!
                 if (esperaFin > MaxEsperaUrgencia)
                 {
@@ -139,7 +140,7 @@ namespace FinalSim.Entidades
                 }
                 else
                 {
-                    linea[puntero] = PacienteEnSistema[i].getNombreEstado();
+                    linea[puntero] = PacienteEnSistema[i].Estado;
                     linea[puntero + 1] = PacienteEnSistema[i].getTiempoLleg().ToString();
                     linea[puntero + 2] = PacienteEnSistema[i].getNombreDisc();
                 }
@@ -272,7 +273,7 @@ namespace FinalSim.Entidades
         private void GenerarOcupacionCancha(string[] linea, double reloj, Paciente dep)
         {
             // generamos los datos de la ocupacion
-            double rnd = GeneradorNros.Truncar(RndOcupacion.NextDouble());
+            double rnd = GeneradorNros.Truncar(RndFinAtencion.NextDouble());
             double tOcup = CalcularFinAtencion(rnd, dep);
             tDeEventos[3] = GeneradorNros.Truncar(tOcup + reloj); // cargamos al vector de eventos
 

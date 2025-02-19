@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|c:\\users\\marina constanza\\documents\\github\\final-sim-ej112\\tp4\\entidades\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|solutionrelative:tp4\\entidades\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\CSVReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP4\\Entidades\\CSVReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\TP4.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\tp4\\pantallasimuladorpolideportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\TP4.csproj|solutionrelative:tp4\\pantallasimuladorpolideportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\PantallaSimuladorPolideportivo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP4\\PantallaSimuladorPolideportivo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\TP4.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\tp4\\pantallavisualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\TP4.csproj|solutionrelative:tp4\\pantallavisualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP4\\Entidades\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|c:\\users\\marina constanza\\documents\\github\\final-sim-ej112\\tp4\\pantallasimuladorpolideportivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|solutionrelative:tp4\\pantallasimuladorpolideportivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\GeneradorNros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP4\\Entidades\\GeneradorNros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|c:\\users\\marina constanza\\documents\\github\\final-sim-ej112\\tp4\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|solutionrelative:tp4\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\GestorSimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP4\\Entidades\\GestorSimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|c:\\users\\marina constanza\\documents\\github\\final-sim-ej112\\tp4\\entidades\\generadornros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|solutionrelative:tp4\\entidades\\generadornros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\tp4\\pantallavisualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp4\\pantallavisualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|c:\\users\\marina constanza\\documents\\github\\final-sim-ej112\\tp4\\entidades\\gestorsimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94FC3EF-F7E7-4AD0-81D0-7B99845EA48F}|TP4\\FinalSim.csproj|solutionrelative:tp4\\entidades\\gestorsimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\tp4\\pantallasimuladorpolideportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp4\\pantallasimuladorpolideportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,20 +37,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 277,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 319,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PantallaSimuladorPolideportivo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\PantallaSimuladorPolideportivo.Designer.cs",
               "RelativeDocumentMoniker": "TP4\\PantallaSimuladorPolideportivo.Designer.cs",
@@ -68,14 +64,12 @@
               "RelativeDocumentMoniker": "TP4\\Entidades\\CSVReader.cs",
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\CSVReader.cs",
               "RelativeToolTip": "TP4\\Entidades\\CSVReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T00:12:27.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T00:12:27.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\Paciente.cs",
               "RelativeDocumentMoniker": "TP4\\Entidades\\Paciente.cs",
@@ -87,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "GeneradorNros.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\GeneradorNros.cs",
               "RelativeDocumentMoniker": "TP4\\Entidades\\GeneradorNros.cs",
@@ -99,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "GestorSimulacion.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\Entidades\\GestorSimulacion.cs",
               "RelativeDocumentMoniker": "TP4\\Entidades\\GestorSimulacion.cs",
@@ -111,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PantallaVisualizacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\PantallaVisualizacion.cs",
               "RelativeDocumentMoniker": "TP4\\PantallaVisualizacion.cs",
@@ -122,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PantallaSimuladorPolideportivo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\Final-Sim-ej112\\TP4\\PantallaSimuladorPolideportivo.cs",
               "RelativeDocumentMoniker": "TP4\\PantallaSimuladorPolideportivo.cs",
@@ -130,10 +124,6 @@
               "RelativeToolTip": "TP4\\PantallaSimuladorPolideportivo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T03:06:29.99Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
